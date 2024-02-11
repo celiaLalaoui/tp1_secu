@@ -7,5 +7,11 @@ Fonctionnalités
 
 Prérequis
 
-    PyQt5
-    pandas
+    installer :
+    
+    hashlib: Cette bibliothèque est utilisée pour calculer des hachages de données.
+    bcrypt: Cette bibliothèque est utilisée pour le hachage de mots de passe sécurisé.
+    pandas: Cette bibliothèque est utilisée pour manipuler des données sous forme de tableaux.
+    PyQt5: Cette bibliothèque est utilisée pour créer des interfaces graphiques.
+
+    pip install hashlib bcrypt pandas PyQt5
